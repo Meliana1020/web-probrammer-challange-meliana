@@ -74,30 +74,3 @@ Backend (Node.js)
 └─ server.js                
 
 
-🖼️ Screenshot Tampilan UI
-
-### Desktop
-
-1. Login Page 
-     <img width="1345" height="649" alt="Image" src="https://github.com/user-attachments/assets/38b6b296-490d-4032-b851-1b43d6107f9e" />
-
-2. **Register Page**
-   - **Light Mode**  
-     ![Desktop Register Light Mode](screenshots/register-page-light-mode.png)  
-   - **Dark Mode**  
-     ![Desktop Register Dark Mode](screenshots/register-page-dark-mode.png)  
-
-3. **Dashboard Page**  
-   ![Desktop Dashboard](screenshots/dashboard-page.png)  
-
-### Mobile
-
-1. **Login Page**  
-   ![Mobile Login Page](screenshots/mobile-login-page.png)  
-
-2. **Register Page**  
-   ![Mobile Register Page](screenshots/mobile-register-page.png)  
-
-
-
-
