@@ -82,21 +82,21 @@ Backend (Node.js)
    - **Light Mode**  
      ![Desktop Login Light Mode](screenshoots/page-login-light-mode.png)  
    - **Dark Mode**  
-     ![Desktop Login Dark Mode](screenshots/page-login-dark-mode.png)  
+     ![Desktop Login Light Mode](screenshots/page-login-light-mode.png) 
 
 2. **Register Page**
    - **Light Mode**  
-     ![Desktop Register Light Mode](screenshots/register-page-light-mode.png)  
+     ![Desktop Register Light Mode](screenshoots/register-page-light-mode.png)  
    - **Dark Mode**  
-     ![Desktop Register Dark Mode](screenshots/register-page-dark-mode.png)  
+     ![Desktop Register Dark Mode](screenshoots/register-page-dark-mode.png)  
 
 3. **Dashboard Page**  
-   ![Desktop Dashboard](screenshots/dashboard-page.png)  
+   ![Desktop Dashboard](screenshoots/dashboard-page.png)  
 
 ### Mobile
 
 1. **Login Page**  
-   ![Mobile Login Page](screenshots/mobile-login-page.png)  
+   ![Mobile Login Page](screenshoots/mobile-login-page.png)  
 
 2. **Register Page**  
-   ![Mobile Register Page](screenshots/mobile-register-page.png)  
+   ![Mobile Register Page](screenshoots/mobile-register-page.png)  
