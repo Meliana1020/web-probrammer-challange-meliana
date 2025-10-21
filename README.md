@@ -80,15 +80,15 @@ Backend (Node.js)
 
 1. **Login Page**
    - **Light Mode**  
-     ![Desktop Login Light Mode](screenshots/page-login-light-mode.png)  
+     ![Desktop Login Light Mode](screenshoots/page-login-light-mode.png)  
    - **Dark Mode**  
      ![Desktop Login Dark Mode](screenshots/page-login-dark-mode.png)  
 
 2. **Register Page**
    - **Light Mode**  
-     ![Desktop Register Light Mode](screenshots/page-register-light-mode.png)  
+     ![Desktop Register Light Mode](screenshots/register-page-light-mode.png)  
    - **Dark Mode**  
-     ![Desktop Register Dark Mode](screenshots/page-register-dark-mode.png)  
+     ![Desktop Register Dark Mode](screenshots/register-page-dark-mode.png)  
 
 3. **Dashboard Page**  
    ![Desktop Dashboard](screenshots/dashboard-page.png)  
