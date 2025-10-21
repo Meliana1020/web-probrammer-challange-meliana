@@ -80,7 +80,7 @@ Backend (Node.js)
 
 1. **Login Page**
    - **Light Mode**  
-     file:///E:/Self%20Project/web-probrammer-challange-meliana/screenshots/page-login-light-mode.png
+     <img width="1345" height="649" alt="Image" src="https://github.com/user-attachments/assets/38b6b296-490d-4032-b851-1b43d6107f9e" />
    - **Dark Mode**  
      ![Desktop Login Light Mode](screenshots/page-login-light-mode.png) 
 
@@ -100,4 +100,5 @@ Backend (Node.js)
 
 2. **Register Page**  
    ![Mobile Register Page](screenshots/mobile-register-page.png)  
+
 
